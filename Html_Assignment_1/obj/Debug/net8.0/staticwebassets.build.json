@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "aWZT/mdSK+OJYlytYRTS4Z+ZwHjhoAdhgz2J4wtf6Ag=",
+  "Source": "Assignment1",
+  "BasePath": "_content/Assignment1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment1/wwwroot",
+      "Source": "Assignment1",
+      "ContentRoot": "/Users/het/Desktop/Html_Assignment/wwwroot/",
+      "BasePath": "_content/Assignment1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/het/Desktop/Html_Assignment/wwwroot/index.html",
+      "SourceId": "Assignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/het/Desktop/Html_Assignment/wwwroot/",
+      "BasePath": "_content/Assignment1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/het/Desktop/Html_Assignment/wwwroot/style.css",
+      "SourceId": "Assignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/het/Desktop/Html_Assignment/wwwroot/",
+      "BasePath": "_content/Assignment1",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+.inline-container {
+    display: flex;
+    align-items: center;
+}
+.inline-container img {
+    width: 45px; 
+    height: auto;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.inline-container span {
+    font-size: 45px;
+}
+
+
+.table-container1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+table img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.table-container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.table-container2 table {
+    border-collapse: collapse;
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    border: 4px double black; 
+}
+
+.table-container2 th,
+.table-container2 td {
+    border: 4px double black; 
+    padding: 2px; 
+}
+
+.table-container2 thead{
+    font-size: 30px;
+}
+
+.table-container2 tfoot th {
+    border-top: 2px double black; 
+}
+
+
+.table-container3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.table-container3 table {
+    border-collapse: collapse;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    border: 4px double black; 
+}
+
+.table-container3 th,
+.table-container3 td {
+    font-size: 30px;
+    border: 4px double black; 
+    padding: 2px; 
+}
+
+.table-container3 thead{
+    font-size: 30px;
+}
+
+.table-container3 tfoot th {
+    border-top: 2px double black; 
+}
+
+
+
+
+.table-container4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.table-container4 table {
+    border-collapse: collapse;
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+    border: 4px double black; 
+}
+
+.table-container4 th,
+.table-container4 td {
+    border: 4px double black; 
+    padding: 2px; 
+    width: 100px; 
+    height: 100px;
+    position: relative;
+}
+
+.table-container4 th button,
+.table-container4 td button {
+    width: 100%;
+    height: 100%;
+    padding: 10px; 
+    box-sizing: border-box;
+    position: absolute; 
+    top: 0;
+    left: 0;
+}
+
+.table-container4 thead{
+    font-size: 50px;
+}
+
+
+.button-container {
+    width: 100%;
+    height: 100%;
+    position: relative; /* Ensure relative positioning for button container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
